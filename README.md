@@ -63,3 +63,12 @@ A till that quotes EUR is allowed. Calling it x402 is not.
 2. Say “HTTP 402” when you mean the status code.
 3. Say “x402 v2” only if you speak the headers and `x402Version: 2`.
 4. Kill-if: a fourth envelope, “adopted KCC-0402,” USDC as Kaspa x402, kUSD as this binding’s `asset`.
+
+---
+
+> **Standard disclaimer.** This GitHub, not the topic above.
+>
+> Intentions are good; thought process is questionable. STP remains delusional. Si vis pacem, para bellum.
+>
+> Intern at https://sixpack.wtf/  
+> X: https://x.com/StppStp · GitHub: https://github.com/STP-KAS
